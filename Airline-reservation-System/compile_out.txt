@@ -1,0 +1,28 @@
+Get-Content : Cannot find 
+path 'C:\Users\ACER\Deskto
+p\Final Project1\Airline-r
+eservation-System\.mvn\wra
+pper\maven-wrapper.propert
+ies' because it does not 
+exist.
+At line:54 char:21
++ ... utionUrl = 
+(Get-Content -Raw "$script
+Dir/.mvn/wrapper/maven-wra
+pper.p ...
++                 ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : ObjectNotFound:   
+  (C:\Users\ACER\D...pp   
+ er.properties:String)    
+ [Get-Content], ItemN    
+otFoundException
+    + FullyQualifiedError 
+   Id : PathNotFound,Mic  
+  rosoft.PowerShell.Com   
+ mands.GetContentComma    
+nd
+ 
+Cannot start maven from wrapper  
